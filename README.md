@@ -1,6 +1,6 @@
 # Pizza's Paradise
 
-Projet modèle pour la réalisatoin de sites et d'applications web réalisés en suivant le patron d'architecture __MVC__(<https://developer.mozilla.org/fr/docs/Glossary/MVC>).
+Projet modèle pour la réalisation de sites et d'applications web réalisés en suivant le patron d'architecture __MVC__(<https://developer.mozilla.org/fr/docs/Glossary/MVC>).
 Développement effectué avec le framework __Hono__ (<https://hono.dev/>), l'environnement d'exécution __Bun__ (<https://bun.sh/>) et le langage de programmation __TypeScript__ (<https://www.typescriptlang.org/>).
 
 - Installation des dépendances :
