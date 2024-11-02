@@ -1,0 +1,21 @@
+{
+  "name": "pizzas-paradise",
+  "author": {
+    "email": "alex@shrp.dev",
+    "name": "Alexandre Leroux",
+    "url": "https://shrp.dev"
+  },
+  "description": "TypeScript + Bun + Hono + TSX",
+  "scripts": {
+    "start": "bun run src/index.ts",
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "@types/uuid": "^10.0.0",
+    "hono": "^4.6.8",
+    "uuid": "^11.0.2"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}

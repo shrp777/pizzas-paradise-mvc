@@ -1,0 +1,33 @@
+.main-title {
+    font-size: 10rem;
+}
+
+img {
+    width: 20rem;
+}
+
+footer {
+    text-align: center;
+}
+
+.credits {
+    font-size: 1.5rem;
+    line-height: 0.5rem;
+}
+
+#breadcrumb {
+    display: flex;
+    margin-bottom: 1rem;
+
+    a.button {
+        padding: 0.3rem;
+        line-height: normal;
+        height: auto;
+    }
+
+    div {
+        line-height: 2rem;
+        padding: 0 0.5rem;
+        color: #9b4dca;
+    }
+}
