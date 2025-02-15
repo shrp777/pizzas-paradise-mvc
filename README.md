@@ -1,4 +1,4 @@
-# Pizza's Paradise Bootstrap
+# Pizza's Paradise MVC
 
 Projet modèle (à compléter) pour la réalisation de sites et d'applications web réalisés en suivant le patron d'architecture __MVC__(<https://developer.mozilla.org/fr/docs/Glossary/MVC>).
 
