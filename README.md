@@ -32,6 +32,8 @@ bun test
 
 open <http://localhost:3000>
 
+![Pizza's Paradise](static/images/logo.png)
+
 --
 
 !["Logotype Shrp"](https://sherpa.one/images/sherpa-logotype.png)
